@@ -7,7 +7,8 @@ The ecosystem is primed and ready to go with over 25 partners, including AWS, NV
 - Research paper : https://ai.meta.com/research/publications/the-llama-3-herd-of-models/
 
 # Llama models 
-- Github : https://github.com/meta-llama/llama-models
+- Llama models Github : https://github.com/meta-llama/llama-models
+- Get the models Llama 3.1 in 8B, 70B, and 405B : https://llama.meta.com/docs/get-started/
 
  
   
