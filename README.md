@@ -6,7 +6,7 @@ The ecosystem is primed and ready to go with over 25 partners, including AWS, NV
 - the blog : https://ai.meta.com/blog/meta-llama-3-1/
 - the research paper : https://ai.meta.com/research/publications/the-llama-3-herd-of-models/
 
-[![Watch the video](![image](https://github.com/user-attachments/assets/40f84550-f7ec-4d7a-a09b-c9c3c3d395ab)
+[![Watch the video](![image](![image](https://github.com/user-attachments/assets/fa84dd48-4373-465d-9cb2-eb3b44d10a46))
 )](https://video-mrs2-2.xx.fbcdn.net/o1/v/t2/f2/m69/An_N5mNXRRuZi6WG_3iz9jbK2jxse6OBxEQg4riAVQ_8JiFWmvSy8XdhSC896A3p_CQGHv1sxMkhyaqBy9eCgq7f.mp4)
  
   
