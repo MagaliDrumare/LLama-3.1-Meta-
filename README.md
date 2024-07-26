@@ -11,7 +11,7 @@ The ecosystem is primed and ready to go with over 25 partners, including AWS, NV
 - Get the models Llama 3.1 in 8B, 70B, and 405B : https://llama.meta.com/docs/get-started/
 - Try the model on a chatbot : https://huggingface.co/chat/models/meta-llama/Meta-Llama-3.1-405B-Instruct-FP8
 
-### Llama-3.1 on Databricks / snowflake / Groq/ vertex AI 
+### Llama-3.1 on Databricks / Snowflake / Groq/ Vertex AI 
 - https://www.databricks.com/blog/new-standard-open-source-ai-meta-llama-31-databricks
 - https://www.snowflake.com/blog/meta-llama-enterprise-apps-snowflake-cortex-ai/
 - https://quickstarts.snowflake.com/guide/getting_started_with_synthetic_data_and_distillation_for_llms/#0
