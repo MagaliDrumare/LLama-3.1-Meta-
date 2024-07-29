@@ -1,4 +1,4 @@
-# LLama-3.1-Meta release
+# LLama-3.1-Meta release - 23 juillet 2024 
 
 Llama 3.1 405B is the first openly available model that rivals the top AI models when it comes to state-of-the-art capabilities in general knowledge, steerability, math, tool use, and multilingual translation.
 The ecosystem is primed and ready to go with over 25 partners, including AWS, NVIDIA, Databricks, Groq, Dell, Azure, Google Cloud, and Snowflake offering services on day one.
